@@ -69,9 +69,9 @@
 					<button class="btn btn-primary" id="play">Ur fav song</button>
 					<button class="btn btn-primary" id="bannar_coming">Let's Decorate</button>
 					<button class="btn btn-primary" id="balloons_flying">Some Balloons?</button>
-					<button class="btn btn-primary" id="cake_fadein">Aapka Chocolate Cake 😋</button>
+					<button class="btn btn-primary" id="cake_fadein">Tera Chocolate Cake 😋</button>
 					<button class="btn btn-primary" id="light_candle">Light</button>
-					<button class="btn btn-primary" id="wish_message">Happy Birthday Eram aapi </button>
+					<button class="btn btn-primary" id="wish_message">Happy Birthday Kaddu</button>
 					<button class="btn btn-primary" id="story">A mere message from my side</button>
 					<!-- <button class="btn btn-primary" id="cake_cut">Lrt's Cut the Cake</button> -->
 				</div>
